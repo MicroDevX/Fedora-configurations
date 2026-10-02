@@ -1,4 +1,4 @@
-<img style="border: 1px solid #666666;border-radius:20px" src="fedora_default-horizontal.png" alt="Fedora Logo" width="200" height="200"> 
+<img style="background: #222222" src="fedora_default-horizontal.png" alt="Fedora Logo" width="200" height="200"> 
 
 # Fedora-configurations
 Some simple tools and scripts that make using the Fedora distribution easier.
