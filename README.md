@@ -1,4 +1,4 @@
-![Fedora](fedora_default-horizontal.png) 
+<img src="fedora_default-horizontal.png" alt="Fedora Logo" width="400" height="300"> 
 
 # Fedora-configurations
 Some simple tools and scripts that make using the Fedora distribution easier.
