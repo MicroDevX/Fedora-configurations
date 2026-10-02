@@ -1,4 +1,4 @@
-<img src="fedora_default-horizontal.png" alt="Fedora Logo" width="400" height="300"> 
+<img src="fedora_default-horizontal.png" alt="Fedora Logo" width="200" height="200"> 
 
 # Fedora-configurations
 Some simple tools and scripts that make using the Fedora distribution easier.
