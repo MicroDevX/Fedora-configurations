@@ -1,4 +1,5 @@
-# [Fedora]("https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png") Fedora-configurations
+[Fedora]("https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png") 
+# Fedora-configurations
 Some simple tools and scripts that make using the Fedora distribution easier.
 
 # **Source global definitions**
