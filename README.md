@@ -1,4 +1,4 @@
-![Fedora]("https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png") 
+![Fedora]("https://fedoraproject.org/wiki/File:Logo_fedoralogo.png") 
 
 # Fedora-configurations
 Some simple tools and scripts that make using the Fedora distribution easier.
